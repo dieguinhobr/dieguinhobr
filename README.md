@@ -2,7 +2,7 @@
 
 **Analista de Infraestrutra e Redes | Infraestrutura | Cloud**
 
-Estudante de **Praticas devops**, com foco em Oracle Cloud e AWS, segurança em Cloud , firewalls,VPNs, troubleshooting.
+Sou formado em Analise E Desenvolvimento de Sistemas **Praticas devops**, com foco em Oracle Cloud e AWS, segurança em Cloud , firewalls,VPNs, troubleshooting.
 
 **Tecnologias:** Fortinet / FortiGate • Trend Micro • pfSense • MikroTik • IPsec / SSL VPN • SD-WAN • Zabbix • SNMP • OCI • AWS • Linux • Azure • Windows Server • Kubernetes • Docker • Docker-Compose.
 
